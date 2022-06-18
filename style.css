@@ -55,7 +55,7 @@ span{
     width: 200px;
     height: 30px;
     padding: 2px;
-    outline: none;
+    outline: double;
 }
 
 .main .right .form button{
@@ -74,6 +74,6 @@ span{
 }
 
 .main .right .form a{
-    color:black;
-    text-decoration: none;
+    color: black;
+    text-decoration: underline;
 }
